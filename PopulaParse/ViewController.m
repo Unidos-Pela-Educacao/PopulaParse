@@ -27,7 +27,7 @@
     NSNumber* numeroDaQuestao = @1;
     
     //ENUNCIADO-----
-    NSString* enunciado = @"ENUNCIADO ";
+    NSString* enunciado = @"ENUNCIADO";
     
     //ANO-----
     NSNumber* ano = @2011;

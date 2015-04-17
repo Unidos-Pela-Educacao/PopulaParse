@@ -20,7 +20,7 @@
          comDisciplina:(NSString*)disciplina
            comResposta:(NSNumber*)respostaCerta
        comAlternativas:(NSMutableArray*)alternativas
-             comImagem:(PFFile*)image{
+             comImagem:(PFFile*)image {
     
 //    UIImage *image = [UIImage imageNamed:@"image"];
 //    
